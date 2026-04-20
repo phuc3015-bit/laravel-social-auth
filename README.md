@@ -1,6 +1,8 @@
 Nguyễn Trọng Phúc
 MSV:23810310391
 
+(Em thưa thầy vì phần facebook tài khoản facebook của em gặp vấn đề nên không thể đăng nhập vào meta for developer được nên em mượn tài khoản facebook của anh em là Nguyễn Trọng Đức để làm ạ)
+
 HƯỚNG DẪN CÀI ĐẶT VÀ CẤU HÌNH
 1. Cách cài đặt
 Yêu cầu: PHP >= 8.2, Composer, MySQL.
